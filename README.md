@@ -1,11 +1,7 @@
 # in_array_r() for PHP
 
 
-[![Coverage Status](https://coveralls.io/repos/AngusDV/in_array_r/badge.svg?branch=master)](https://coveralls.io/r/AngusDV/in_array_r)
-[![Latest Stable Version](https://poser.pugx.org/AngusDV/in_array_r/v/stable.svg)](https://packagist.org/packages/AngusDV/in_array_r)
-[![Total Downloads](https://poser.pugx.org/AngusDV/in_array_r/downloads.svg)](https://packagist.org/packages/AngusDV/in_array_r)
-[![Latest Unstable Version](https://poser.pugx.org/AngusDV/in_array_r/v/unstable.svg)](https://packagist.org/packages/AngusDV/in_array_r)
-[![License](https://poser.pugx.org/AngusDV/in_array_r/license.svg)](https://packagist.org/packages/AngusDV/in_array_r)
+
 
 The `in_array_r()` function is not a built-in PHP function, but rather a custom function that can be used to recursively check if a given `$needle` (string or integer) exists within a multi-dimensional `$haystack` array.
 
