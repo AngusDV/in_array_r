@@ -1,6 +1,10 @@
 
 # in_array_r() for PHP
-[![Latest Stable Version](http://poser.pugx.org/angus-dv/in_array_r/v)](https://packagist.org/packages/angus-dv/in_array_r) [![Total Downloads](http://poser.pugx.org/angus-dv/in_array_r/downloads)](https://packagist.org/packages/angus-dv/in_array_r) [![Latest Unstable Version](http://poser.pugx.org/angus-dv/in_array_r/v/unstable)](https://packagist.org/packages/angus-dv/in_array_r) [![License](http://poser.pugx.org/angus-dv/in_array_r/license)](https://packagist.org/packages/angus-dv/in_array_r) [![PHP Version Require](http://poser.pugx.org/angus-dv/in_array_r/require/php)](https://packagist.org/packages/angus-dv/in_array_r)
+[![Latest Stable Version](http://poser.pugx.org/angus-dv/in_array_r/v)](https://packagist.org/packages/angus-dv/in_array_r)
+[![Total Downloads](http://poser.pugx.org/angus-dv/in_array_r/downloads)](https://packagist.org/packages/angus-dv/in_array_r)
+[![Latest Unstable Version](http://poser.pugx.org/angus-dv/in_array_r/v/unstable)](https://packagist.org/packages/angus-dv/in_array_r)
+[![License](http://poser.pugx.org/angus-dv/in_array_r/license)](https://packagist.org/packages/angus-dv/in_array_r)
+[![PHP Version Require](http://poser.pugx.org/angus-dv/in_array_r/require/php)](https://packagist.org/packages/angus-dv/in_array_r)
 
 The `in_array_r()` function is not a built-in PHP function, but rather a custom function that can be used to recursively check if a given `$needle` (string or integer) exists within a multi-dimensional `$haystack` array.
 
