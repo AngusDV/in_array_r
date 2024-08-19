@@ -1,3 +1,4 @@
+
 # in_array_r() for PHP
 
 [![Latest Stable Version](http://poser.pugx.org/angus-dv/in_array_r/v)](https://packagist.org/packages/angus-dv/in_array_r) [![Total Downloads](http://poser.pugx.org/angus-dv/in_array_r/downloads)](https://packagist.org/packages/angus-dv/in_array_r) [![Latest Unstable Version](http://poser.pugx.org/angus-dv/in_array_r/v/unstable)](https://packagist.org/packages/angus-dv/in_array_r) [![License](http://poser.pugx.org/angus-dv/in_array_r/license)](https://packagist.org/packages/angus-dv/in_array_r) [![PHP Version Require](http://poser.pugx.org/angus-dv/in_array_r/require/php)](https://packagist.org/packages/angus-dv/in_array_r)
