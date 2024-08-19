@@ -14,7 +14,6 @@
         "issues": "https://github.com/AngusDV/in_array_r/issues",
         "source": "https://github.com/AngusDV/in_array_r"
     },
-    "abandoned": true,
     "require-dev": {
         "phpunit/phpunit": "~4.5",
         "squizlabs/php_codesniffer": "~2.2",
