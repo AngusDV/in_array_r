@@ -34,7 +34,7 @@ So, to answer your question, the `in_array_r()` function can be used to check if
 The easiest way to install this library is to use [Composer](https://getcomposer.org/):
 
 ```
-php composer.phar require AngusDV/in_array_r
+php composer.phar require angus-dv/in_array_r
 ```
 
 Then, when you run `composer install`, everything will fall magically into place,
